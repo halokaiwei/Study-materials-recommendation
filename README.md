@@ -1,2 +1,2 @@
 # simplerecommendation
-A simple recommendation system using NLP for my FYP
+A study materials recommendation system using NLP for my FYP
