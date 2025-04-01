@@ -9,3 +9,7 @@ The objectives:
   4. To deploy the recommendation system to Google Cloud Platform to receive http request from Lightbot application
 
 
+You can view my notedbook on kaggle 
+https://www.kaggle.com/code/kaiiweii/train-model-for-learning-tool-recommendation 
+https://www.kaggle.com/code/kaiiweii/predict-preferred-learning-tool
+https://www.kaggle.com/code/kaiiweii/learning-materials-recommendation
